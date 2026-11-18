@@ -1,1 +1,31 @@
-# miku-handdrawn-poweramp
+# 初音手绘 · Hand-drawn Miku
+
+一款免费的非官方 Poweramp 安卓皮肤。薄荷色的手绘界面、微微翘起的歌名标签纸，以及五个初音未来播放按钮，组成了播放器的主要画面。
+
+## 界面预览
+
+竖屏播放器、曲库和均衡器。截图取自开发期间的演示，界面以安装版本为准。
+
+<img src="player.png" alt="竖屏播放器，唱片封面下方是歌名标签纸和五个初音按钮" width="30%"> <img src="library.png" alt="薄荷色曲库和手绘分类图标" width="27%"> <img src="equalizer.png" alt="均衡器上的手绘推子与旋钮" width="27%">
+
+横屏布局预览
+
+![横屏播放器，左侧显示封面，右侧显示歌名标签和播放按钮](landscape.png)
+
+## 下载安装
+
+1. 在 Android 手机上安装 Poweramp 音乐播放器。
+2. 打开本仓库的 **Releases（发行版）**，在 **v1.00 → Assets（附件）** 下载并安装 **Miku-Handdrawn-1.00.apk**。
+3. 打开 Poweramp，在 **设置 → 外观与感受 → 皮肤** 选择 **初音手绘**（Hand-drawn Miku）。
+
+**验证状态**　本版本尚未获 Poweramp 签名认证。支持皮肤验证的播放器版本会在首次选中未认证皮肤约 48 小时后自动取消选中。[Poweramp 官方说明](https://github.com/maxmpz/powerampapi/blob/master/poweramp_skin_sample/readme.md#skin-verification)
+
+## 制作与署名
+
+- 皮肤设计与实现：M500 MIKU。本项目免费，无广告及付费功能。
+- 角色「初音未来／初音ミク」版权归 Crypton Future Media, INC. 所有。[Piapro 角色使用指引](https://piapro.jp/license/character_guideline)
+- 播放按钮人物原画：みらつ／밋다다（@miratsu169）。按钮图在原画基础上用 AI 辅助临摹并微调姿势，快进图使用快退原画的水平镜像后再作调整。[画师的 X 主页](https://x.com/miratsu169)
+- 使用截图中的专辑封面和音乐信息来自当时播放的曲目，相关权利归各自权利人。
+
+**侵删／权利人联系**　已就按钮插画的公开使用向原画作者询问，目前仍在等待答复。如你是相关权利人，希望撤下或更正内容，请通过本仓库的 Issues 联系维护者。
+
