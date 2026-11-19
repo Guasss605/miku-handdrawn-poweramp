@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/4bc01cb9-9068-4a68-adfa-381c3b06c793
 ## 설치 방법
 
 1. 안드로이드 기기에 Poweramp 음악 플레이어를 설치합니다.
-2. 이 저장소의 **Releases**에서 **v1.00 → Assets**를 열고 **Miku-Handdrawn-1.00.apk**를 내려받아 설치합니다.
+2. 이 저장소의 **Releases**에서 **v1.16.72 → Assets**를 열고 [**Miku-Handdrawn-1.16.72.apk**](https://github.com/rinsawa/miku-handdrawn-poweramp/releases/download/v1.16.72/Miku-Handdrawn-1.16.72.apk)를 내려받아 설치합니다.
 3. Poweramp의 **설정 → 모양 및 느낌(Look and Feel) → 스킨(Skin)** 에서 **손그림 미쿠**를 선택합니다.
 
 **스킨 서명 인증**　이 스킨의 서명은 아직 Poweramp 인증을 받지 않았습니다. 서명을 확인하는 버전에서는 미인증 스킨을 처음 선택한 시점부터 약 48시간이 지나면 선택이 자동으로 해제됩니다. [Poweramp 공식 문서](https://github.com/maxmpz/powerampapi/blob/master/poweramp_skin_sample/readme.md#skin-verification)
