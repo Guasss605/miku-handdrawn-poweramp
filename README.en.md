@@ -35,7 +35,7 @@ Portrait player, library and equalizer. These screenshots were taken during deve
 
 ## Credits
 
-- **Skin design and development**　[@rinsawa](https://github.com/rinsawa) (M500 MIKU). The skin is free, with no ads or paid features.
+- **Skin design, development and lead testing**　[@rinsawa](https://github.com/rinsawa) (M500 MIKU). The skin is free, with no ads or paid features.
 - **Testing**　Thanks to [@Guasss605](https://github.com/Guasss605) for testing the skin and helping resolve interface layout issues.
 - Hatsune Miku is a character of Crypton Future Media, INC. [Piapro character usage guidelines](https://piapro.jp/license/character_guideline)
 - Original character illustrations for the playback buttons by みらつ／밋다다 (@miratsu169). The illustrations were redrawn with AI assistance, with small changes to the poses to fit the buttons. [Artist on X](https://x.com/miratsu169)
