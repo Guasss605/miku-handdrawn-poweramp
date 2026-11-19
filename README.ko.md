@@ -35,7 +35,8 @@ https://github.com/user-attachments/assets/4bc01cb9-9068-4a68-adfa-381c3b06c793
 
 ## 제작 및 크레딧
 
-- 스킨 디자인과 개발은 M500 MIKU가 담당했습니다. 광고나 유료 기능 없이 무료로 제공합니다.
+- **스킨 디자인 및 제작**　[@rinsawa](https://github.com/rinsawa) (M500 MIKU)가 담당했습니다. 광고나 유료 기능 없이 무료로 제공합니다.
+- **테스트 협력**　테스트에 참여해 화면 레이아웃 문제를 해결하는 데 도움을 주신 [@Guasss605](https://github.com/Guasss605) 님께 감사드립니다.
 - 하츠네 미쿠는 Crypton Future Media, INC.의 캐릭터입니다. [피아프로 캐릭터 이용 지침](https://piapro.jp/license/character_guideline)
 - 재생 버튼의 캐릭터 원화는 밋다다／みらつ 작가님(@miratsu169)의 작품입니다. AI의 도움을 받아 원화를 모사하고 버튼에 맞게 자세를 조금 조정했습니다. [작가님의 X](https://x.com/miratsu169)
 - 화면에 표시된 앨범 표지와 곡 정보에 관한 권리는 각 권리자에게 있습니다.
