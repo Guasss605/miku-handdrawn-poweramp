@@ -4,9 +4,11 @@
 
 A free, unofficial skin for Poweramp on Android. A mint-green hand-drawn interface frames the album cover. The song title sits on a paper label with a curled edge, above five playback buttons illustrated with Hatsune Miku.
 
-## M500 demo
+<a name="m500-demo"></a>
 
-Hand-drawn Miku 1.16.72 on the M500. The 73-second video switches to landscape at 0:51.
+## HiBy Digital M500 X Hatsune Miku demo
+
+Hand-drawn Miku 1.16.72 running in Poweramp on this portable music player. The 73-second recording switches to landscape at 0:51.
 
 https://github.com/user-attachments/assets/acda0aec-f4c5-4d22-a2d0-dfd0dc520ff9
 
@@ -39,3 +41,5 @@ Portrait player, library and equalizer. These screenshots were taken during deve
 - Album covers and track information in the screenshots belong to their respective rights holders.
 
 **Rights and removal requests**　We have asked the illustrator for permission to distribute the button artwork and are awaiting a reply. Rights holders can contact the maintainer through this repository’s Issues to request removal or a correction.
+
+**Contact me**　[lzhe120400@gmail.com](mailto:lzhe120400@gmail.com)
