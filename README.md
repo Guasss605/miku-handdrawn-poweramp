@@ -28,11 +28,16 @@ https://github.com/user-attachments/assets/b682334c-75a8-4723-ad31-a5a899e429c5
 
 **验证状态**　本版本尚未获 Poweramp 签名认证。支持皮肤验证的播放器版本会在首次选中未认证皮肤约 48 小时后自动取消选中。[Poweramp 官方说明](https://github.com/maxmpz/powerampapi/blob/master/poweramp_skin_sample/readme.md#skin-verification)
 
+## 已知问题
+
+- 在播放页启用额外按钮时，按钮可能错位，或与其他控件重叠。
+- 在部分不常见的屏幕宽高比下，播放页各区域的间距和比例可能不协调。
+
 ## 制作与署名
 
 - 皮肤设计与实现：M500 MIKU。本项目免费，无广告及付费功能。
 - 角色「初音未来／初音ミク」版权归 Crypton Future Media, INC. 所有。[Piapro 角色使用指引](https://piapro.jp/license/character_guideline)
-- 播放按钮人物原画：みらつ／밋다다（@miratsu169）。按钮图在原画基础上用 AI 辅助临摹并微调姿势，快进图使用快退原画的水平镜像后再作调整。[画师的 X 主页](https://x.com/miratsu169)
+- 播放按钮人物原画：みらつ／밋다다（@miratsu169）。按钮图在原画基础上用 AI 辅助临摹并微调姿势。[画师的 X 主页](https://x.com/miratsu169)
 - 使用截图中的专辑封面和音乐信息来自当时播放的曲目，相关权利归各自权利人。
 
 **侵删／权利人联系**　已就按钮插画的公开使用向原画作者询问，目前仍在等待答复。如你是相关权利人，希望撤下或更正内容，请通过本仓库的 Issues 联系维护者。

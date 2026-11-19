@@ -26,11 +26,16 @@ Portrait player, library and equalizer. These screenshots were taken during deve
 
 **Skin verification**　Poweramp has yet to verify this skin’s signing certificate. Versions of the player that check skin signatures automatically deselect an unverified skin about 48 hours after it is first selected. [Poweramp documentation](https://github.com/maxmpz/powerampapi/blob/master/poweramp_skin_sample/readme.md#skin-verification)
 
+## Known issues
+
+- Enabling extra buttons on the playback screen can cause buttons to shift out of place or overlap other controls.
+- On some uncommon screen aspect ratios, sections of the playback screen may appear unevenly spaced or out of proportion.
+
 ## Credits
 
 - Skin design and development by M500 MIKU. The skin is free, with no ads or paid features.
 - Hatsune Miku is a character of Crypton Future Media, INC. [Piapro character usage guidelines](https://piapro.jp/license/character_guideline)
-- Original character illustrations for the playback buttons by みらつ／밋다다 (@miratsu169). The illustrations were redrawn with AI assistance, with small changes to the poses to fit the buttons. The fast-forward illustration was adapted from a horizontally mirrored version of the original used for rewind. [Artist on X](https://x.com/miratsu169)
+- Original character illustrations for the playback buttons by みらつ／밋다다 (@miratsu169). The illustrations were redrawn with AI assistance, with small changes to the poses to fit the buttons. [Artist on X](https://x.com/miratsu169)
 - Album covers and track information in the screenshots belong to their respective rights holders.
 
 **Rights and removal requests**　We have asked the illustrator for permission to distribute the button artwork and are awaiting a reply. Rights holders can contact the maintainer through this repository’s Issues to request removal or a correction.
